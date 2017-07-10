@@ -1,0 +1,17 @@
+**/bin/
+**/target/
+**/.project
+**/*.idea
+**/*.mvn
+**/*.iml
+**/.classpath
+**/.springBeans
+**/.externalToolBuilders
+**/.settings
+**/.gitignore
+**/*.log
+**/*.jar
+jamondata
+log
+logs
+/omx-atmos-emulators/src/generated
