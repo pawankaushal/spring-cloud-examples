@@ -32,13 +32,14 @@
 		<module>mvc1</module>
 		<module>mvc2</module>
 		<module>mvc3</module>
-		<module>mvc-client</module>
+		
 		<module>pawan-maven-plugin</module>
 		<module>turbineServer</module>
 		<module>user-demo</module>
 		<module>user-manage-springboot-starter</module>
 		<module>zipkinServer</module>
 		<module>zuulService</module>
+		<module>mvc-client</module>
 	</modules>
 	
 	<dependencyManagement>
