@@ -39,7 +39,7 @@
 		<module>user-manage-springboot-starter</module>
 		<module>zipkinServer</module>
 		<module>zuulService</module>
-		<module>mvc-client</module>
+		<module>mvc-client-ribbon</module>
 	</modules>
 	
 	<dependencyManagement>
